@@ -10,6 +10,6 @@ Below you will find some sample calculations for concrete and pier measurements.
 
 #### Weight of Concrete
 
-WT (lbs) = W(ft) X L(ft) X H(ft) X 150lbs
+WT (lbs) = W(ft) X L(ft) X H(ft) X 150 lbs/ft3
 
 This will give us the total weight of the slab. Once we have this information along with a site analysis of the problem areas, we can determine exactly how many and where the piers need to be placed.
