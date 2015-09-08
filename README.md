@@ -1,8 +1,8 @@
-# Tulsa Foundation Repair
+# [Tulsa Foundation Repair](http://www.powerliftfoundationrepair.com)
 
 In order to determine how much lifting force an individual pier will hold, we must first calculate the weight of the slab and then divide that between the number of piers and other contact points. Knowing that concrete weighs in at 150 lbs per cubic foot, we can determine the exact minimum the pier must support.
 
-Doing this calculation will allow us to correctly size piers and determine additional concrete calculations if any needed for backfill support of the individual piers. Power Lift Foundation Repair are the [Foundation Repair Tulsa](http://www.powerliftfoundationrepair.com/locations/oklahoma/tulsa/) Experts you can trust to bring you back to level.
+Doing this calculation will allow us to correctly size piers and determine additional concrete calculations if any needed for backfill support of the individual piers. Power Lift Foundation Repair are the [Foundation Repair Tulsa](http://www.powerliftfoundationrepair.com) Experts you can trust to bring you back to level.
 
 Below you will find some sample calculations for concrete and pier measurements. In addition, this project include Java code to perform these calcuations with simple input.
 
